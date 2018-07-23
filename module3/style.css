@@ -1,0 +1,14 @@
+#card{
+    margin-top: 20px;
+    height: 20px;
+    width: 200px;
+}
+#name{
+    margin-top: 15px;
+    height: 20px;
+    width: 200px;
+}
+#btn{
+    margin-top: 10px;
+    margin-left: 60px;
+}

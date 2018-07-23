@@ -1,0 +1,14 @@
+#cont{
+	background:darkgray;
+	text-align: center;
+	height: 200px;
+	width: 200px;
+	margin-left: 300px;
+	padding: 100px;
+    border-radius: 50%;
+}
+.btn_x{
+	background: dimgray;
+	padding: 20px;
+	border-radius: 50%;
+}
